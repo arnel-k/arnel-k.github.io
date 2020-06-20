@@ -4,7 +4,7 @@ Programming is one things that is a passion, the best coding is done at late nig
 
 ## Book to read about
 
-** C sharp
-** Java
-** Python
-** GIT
+* C sharp
+* Java
+* Python
+* GIT
