@@ -16,4 +16,4 @@ As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
 
-<img src="https://images.app.goo.gl/BHcgPFWPN78Zretf9"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
